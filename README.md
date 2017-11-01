@@ -30,22 +30,3 @@ Road map
 -------
 * Avoid download existing books (new mode)
 * Unit testing
-
-<style>
-	table{
-    margin-top: 30px;
-    border-collapse: collapse;
-    border-spacing: 0;
-    border:1px solid #ff0000;
-}
-
-  th{
-      border:1px solid #000000;
-      padding: 10px;
-  }
-
-  td{
-      border:1px solid #000000;
-      padding: 10px;
-  }
-</style>
